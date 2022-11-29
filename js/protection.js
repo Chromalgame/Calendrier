@@ -1,4 +1,4 @@
-import Case from 'Calendrier/js/case.js'
+import Case from '/Calendrier/js/case.js'
 
 const element = new Case(new Date('2022-11-28'), 10);
 
