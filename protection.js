@@ -1,4 +1,4 @@
-import Case from 'case.js'
+import Case from '/case.js'
 
 const element = new Case(new Date('2022-11-28'), 10);
 
