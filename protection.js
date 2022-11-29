@@ -7,4 +7,6 @@ dateJ = new Date()
 console.log(dateJ)
 console.log(element.Date())
 
-if(element.Date() > dateJ)
+if(element.Date() > dateJ){
+    console.log('yes')
+}
