@@ -2,7 +2,9 @@ import Case from 'case.js'
 
 const element = new Case(new Date('2022-11-28'), 10);
 
-console.log(new Date())
+dateJ = new Date()
+
+console.log(dateJ)
 console.log(element.Date())
 
-// if()
+if(element.Date() > dateJ)
